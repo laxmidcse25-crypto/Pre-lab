@@ -1,0 +1,12 @@
+<html>
+<title>Practical-2</title>
+<head>Web Designing</head>
+<body bgcolor="orange">
+    <p>Here,we are learning new elements</p>
+    <p><b>Bold Tag</b></p>
+    <p><i>Italic Tag</i><p>
+    <p><u>Underline Tag</u><p>
+    <h1 align="center">Laxmi .S. Dube</h1><br>
+    <p align="center">Student of S.B.Jain Institute of Technology,Managment and Research. CSE Department USN is "CS25028".</p>
+</body>
+</html>  
