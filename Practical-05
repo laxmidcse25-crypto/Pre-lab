@@ -1,0 +1,62 @@
+<html>
+<title>my resume</title>
+<head>
+</head>
+<body bgcolor = "pink">
+<img src = "C:\Users\HP\OneDrive\Documents\PHOTO.jpeg" height = "150px" width = "150px" align = "right">
+
+<h1 align = "center">RESUME</h1>
+<h2><b>NAME :-</b>Laxmi Sanjiv Dube</h2>
+<h2><b>EMAIL :-</b> dubelaxmi891@gmail.com</h2>
+<hr>
+<br>
+<br>
+<table border="1" >
+<thead bgcolor="lightblue">
+        <tr>
+            <th>Sr no.</th>
+            <th>School/Collage</th>
+            <th>Qualification</th>
+            <th>Marks Secured</th>
+                    </tr>
+</thead>
+        
+        <tr>
+            <td>1</td>
+            <td>Essence International School</td>
+            <td>10th</td>
+            <td>71%</td>
+            
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>KMG School and Jr Collage Pardi</td>
+            <td>12th</td>
+            <td>78%</td>
+                    </tr>
+        
+
+            </table><br>
+<h3>Technical Skills : </h3>
+<ol>
+  <li><mark>Learning HTML</mark></li>
+  <li>Just completed C</li>
+  <li>Basic C++</li>
+  <li>STARTED LEARNING OOPS in C++</li>
+  
+</ol>
+<h3>PERSONAL DETAILS</h3>
+<ul>
+  <li>Laxmi Sanjiv Dube</li>
+  <li>dubelaxmi891@gmail.com</li>
+  <li>9370240821</li>
+  <li>NAGPUR</li>
+</ul>
+;
+<h3 align="right">Signature </h3>
+<img src = "C:\Users\HP\OneDrive\Documents\signature new.jpeg" height="px" width="50px" align="right">
+
+
+
+</body>
+</html>
