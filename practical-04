@@ -1,0 +1,72 @@
+<html>
+<head>
+    <title>Time Table</title>
+</head>
+
+<body bgcolor="lightyellow">
+<h3 align="center">Laxmi S. Dube</h3>
+<h3 align="center">CS25028</h3>
+<h2 align="center">My Schedule</h2>
+
+<table border="2" align="center" cellpadding="16" cellspacing="9" >
+
+<thead bgcolor="lightblue">
+   <tr>
+     <th>Day/Time</th>
+     <th>7:00 - 8:00</th>
+     <th>8:00 - 9:00</th>
+     <th>9:00 - 10:00</th>
+     <th>10:00 - 12:30</th>
+   </tr>
+</thead>
+
+  <tbody align="center">
+  <tr>
+     <th bgcolor="lightgreen">Monday</th>
+     <td>SMP</td>
+     <td>Chem</td>
+     <td rowspan="6" bgcolor="orange"><b>Dinner</b></td>
+     <td>Maths</td>
+   </tr>
+
+   <tr>
+      <th bgcolor="lightgreen">Tuesday</th>
+      <td>EE</td>
+      <td>SMP</td>
+      <td>Maths</td>
+    </tr>
+
+    <tr>
+      <th bgcolor="lightgreen">Wednesday</th>
+      <td>Assignments</td>
+      <td>Maths</td>
+      <td>Web Designing</td>
+    </tr>
+
+    <tr>
+       <th bgcolor="lightgreen">Thursday</th>
+       <td>EE</td>
+       <td>Social Media</td>
+       <td>Maths</td>
+   </tr>
+
+   <tr>
+     <th bgcolor="lightgreen">Friday</th>
+     <td>Chem</td>
+     <td>SMP</td>
+     <td>Maths</td>
+   </tr>
+
+   <tr> 
+   <th bgcolor="lightgreen">Saturday</th>
+   <td>Brunch</td>
+   <td>Social Media</td>
+   <td>CodeTantra</td>
+   </tr>
+
+ </tbody>
+
+ </table>
+
+</body>
+</html>   
